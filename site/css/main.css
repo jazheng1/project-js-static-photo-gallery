@@ -1,3 +1,22 @@
 #page-header h1 {
-  color: red;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 50px;
+}
+
+.image {
+  text-align: center;
+  width: 29%;
+  border: 5px solid black;
+  float: left;
+  margin: 20px;
+}
+
+img {
+  border: solid 2px gold;
+  margin: 10px;
+}
+
+p {
+  font-weight: bold;
 }
